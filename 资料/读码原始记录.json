@@ -1,0 +1,1234 @@
+[
+  {
+    "id": "C1-1",
+    "direct": "B1-01",
+    "node": "入口",
+    "minute": 600,
+    "drift": 1,
+    "alternatives": [
+      "B1-01"
+    ]
+  },
+  {
+    "id": "C1-2",
+    "direct": "B1-02",
+    "node": "入口",
+    "minute": 616,
+    "drift": 1,
+    "alternatives": [
+      "B1-02"
+    ]
+  },
+  {
+    "id": "M1-2",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 623,
+    "drift": 3,
+    "alternatives": [
+      "B1-02",
+      "B1-03"
+    ]
+  },
+  {
+    "id": "C1-3",
+    "direct": "B1-03",
+    "node": "入口",
+    "minute": 616,
+    "drift": 1,
+    "alternatives": [
+      "B1-03"
+    ]
+  },
+  {
+    "id": "C1-4",
+    "direct": "B1-04",
+    "node": "入口",
+    "minute": 632,
+    "drift": 1,
+    "alternatives": [
+      "B1-04"
+    ]
+  },
+  {
+    "id": "M1-4",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 639,
+    "drift": 3,
+    "alternatives": [
+      "B1-04",
+      "B1-05"
+    ]
+  },
+  {
+    "id": "C1-5",
+    "direct": "B1-05",
+    "node": "入口",
+    "minute": 632,
+    "drift": 1,
+    "alternatives": [
+      "B1-05"
+    ]
+  },
+  {
+    "id": "C1-6",
+    "direct": "B1-06",
+    "node": "入口",
+    "minute": 648,
+    "drift": 1,
+    "alternatives": [
+      "B1-06"
+    ]
+  },
+  {
+    "id": "M1-6",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 655,
+    "drift": 3,
+    "alternatives": [
+      "B1-06",
+      "B1-07"
+    ]
+  },
+  {
+    "id": "C1-7",
+    "direct": "B1-07",
+    "node": "入口",
+    "minute": 648,
+    "drift": 1,
+    "alternatives": [
+      "B1-07"
+    ]
+  },
+  {
+    "id": "C1-8",
+    "direct": "B1-08",
+    "node": "入口",
+    "minute": 664,
+    "drift": 1,
+    "alternatives": [
+      "B1-08"
+    ]
+  },
+  {
+    "id": "M1-8",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 671,
+    "drift": 3,
+    "alternatives": [
+      "B1-08",
+      "B1-09"
+    ]
+  },
+  {
+    "id": "C1-9",
+    "direct": "B1-09",
+    "node": "入口",
+    "minute": 664,
+    "drift": 1,
+    "alternatives": [
+      "B1-09"
+    ]
+  },
+  {
+    "id": "C1-10",
+    "direct": "B1-10",
+    "node": "入口",
+    "minute": 680,
+    "drift": 1,
+    "alternatives": [
+      "B1-10"
+    ]
+  },
+  {
+    "id": "M1-10",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 687,
+    "drift": 3,
+    "alternatives": [
+      "B1-10"
+    ]
+  },
+  {
+    "id": "C2-1",
+    "direct": "B2-01",
+    "node": "入口",
+    "minute": 1200,
+    "drift": 1,
+    "alternatives": [
+      "B2-01"
+    ]
+  },
+  {
+    "id": "C2-2",
+    "direct": "B2-02",
+    "node": "入口",
+    "minute": 1216,
+    "drift": 1,
+    "alternatives": [
+      "B2-02"
+    ]
+  },
+  {
+    "id": "M2-2",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 1223,
+    "drift": 3,
+    "alternatives": [
+      "B2-02",
+      "B2-03"
+    ]
+  },
+  {
+    "id": "C2-3",
+    "direct": "B2-03",
+    "node": "入口",
+    "minute": 1216,
+    "drift": 1,
+    "alternatives": [
+      "B2-03"
+    ]
+  },
+  {
+    "id": "C2-4",
+    "direct": "B2-04",
+    "node": "入口",
+    "minute": 1232,
+    "drift": 1,
+    "alternatives": [
+      "B2-04"
+    ]
+  },
+  {
+    "id": "M2-4",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 1239,
+    "drift": 3,
+    "alternatives": [
+      "B2-04",
+      "B2-05"
+    ]
+  },
+  {
+    "id": "C2-5",
+    "direct": "B2-05",
+    "node": "入口",
+    "minute": 1232,
+    "drift": 1,
+    "alternatives": [
+      "B2-05"
+    ]
+  },
+  {
+    "id": "C2-6",
+    "direct": "B2-06",
+    "node": "入口",
+    "minute": 1248,
+    "drift": 1,
+    "alternatives": [
+      "B2-06"
+    ]
+  },
+  {
+    "id": "M2-6",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 1255,
+    "drift": 3,
+    "alternatives": [
+      "B2-06",
+      "B2-07"
+    ]
+  },
+  {
+    "id": "C2-7",
+    "direct": "B2-07",
+    "node": "入口",
+    "minute": 1248,
+    "drift": 1,
+    "alternatives": [
+      "B2-07"
+    ]
+  },
+  {
+    "id": "C2-8",
+    "direct": "B2-08",
+    "node": "入口",
+    "minute": 1264,
+    "drift": 1,
+    "alternatives": [
+      "B2-08"
+    ]
+  },
+  {
+    "id": "M2-8",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 1271,
+    "drift": 3,
+    "alternatives": [
+      "B2-08",
+      "B2-09"
+    ]
+  },
+  {
+    "id": "C2-9",
+    "direct": "B2-09",
+    "node": "入口",
+    "minute": 1264,
+    "drift": 1,
+    "alternatives": [
+      "B2-09"
+    ]
+  },
+  {
+    "id": "C2-10",
+    "direct": "B2-10",
+    "node": "入口",
+    "minute": 1280,
+    "drift": 1,
+    "alternatives": [
+      "B2-10"
+    ]
+  },
+  {
+    "id": "M2-10",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 1287,
+    "drift": 3,
+    "alternatives": [
+      "B2-10"
+    ]
+  },
+  {
+    "id": "C3-1",
+    "direct": "B3-01",
+    "node": "入口",
+    "minute": 1800,
+    "drift": 1,
+    "alternatives": [
+      "B3-01"
+    ]
+  },
+  {
+    "id": "C3-2",
+    "direct": "B3-02",
+    "node": "入口",
+    "minute": 1816,
+    "drift": 1,
+    "alternatives": [
+      "B3-02"
+    ]
+  },
+  {
+    "id": "M3-2",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 1823,
+    "drift": 3,
+    "alternatives": [
+      "B3-02",
+      "B3-03"
+    ]
+  },
+  {
+    "id": "C3-3",
+    "direct": "B3-03",
+    "node": "入口",
+    "minute": 1816,
+    "drift": 1,
+    "alternatives": [
+      "B3-03"
+    ]
+  },
+  {
+    "id": "C3-4",
+    "direct": "B3-04",
+    "node": "入口",
+    "minute": 1832,
+    "drift": 1,
+    "alternatives": [
+      "B3-04"
+    ]
+  },
+  {
+    "id": "M3-4",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 1839,
+    "drift": 3,
+    "alternatives": [
+      "B3-04",
+      "B3-05"
+    ]
+  },
+  {
+    "id": "C3-5",
+    "direct": "B3-05",
+    "node": "入口",
+    "minute": 1832,
+    "drift": 1,
+    "alternatives": [
+      "B3-05"
+    ]
+  },
+  {
+    "id": "C3-6",
+    "direct": "B3-06",
+    "node": "入口",
+    "minute": 1848,
+    "drift": 1,
+    "alternatives": [
+      "B3-06"
+    ]
+  },
+  {
+    "id": "M3-6",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 1855,
+    "drift": 3,
+    "alternatives": [
+      "B3-06",
+      "B3-07"
+    ]
+  },
+  {
+    "id": "C3-7",
+    "direct": "B3-07",
+    "node": "入口",
+    "minute": 1848,
+    "drift": 1,
+    "alternatives": [
+      "B3-07"
+    ]
+  },
+  {
+    "id": "C3-8",
+    "direct": "B3-08",
+    "node": "入口",
+    "minute": 1864,
+    "drift": 1,
+    "alternatives": [
+      "B3-08"
+    ]
+  },
+  {
+    "id": "M3-8",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 1871,
+    "drift": 3,
+    "alternatives": [
+      "B3-08",
+      "B3-09"
+    ]
+  },
+  {
+    "id": "C3-9",
+    "direct": "B3-09",
+    "node": "入口",
+    "minute": 1864,
+    "drift": 1,
+    "alternatives": [
+      "B3-09"
+    ]
+  },
+  {
+    "id": "C3-10",
+    "direct": "B3-10",
+    "node": "入口",
+    "minute": 1880,
+    "drift": 1,
+    "alternatives": [
+      "B3-10"
+    ]
+  },
+  {
+    "id": "M3-10",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 1887,
+    "drift": 3,
+    "alternatives": [
+      "B3-10"
+    ]
+  },
+  {
+    "id": "C4-1",
+    "direct": "B4-01",
+    "node": "入口",
+    "minute": 2400,
+    "drift": 1,
+    "alternatives": [
+      "B4-01"
+    ]
+  },
+  {
+    "id": "C4-2",
+    "direct": "B4-02",
+    "node": "入口",
+    "minute": 2416,
+    "drift": 1,
+    "alternatives": [
+      "B4-02"
+    ]
+  },
+  {
+    "id": "M4-2",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 2423,
+    "drift": 3,
+    "alternatives": [
+      "B4-02",
+      "B4-03"
+    ]
+  },
+  {
+    "id": "C4-3",
+    "direct": "B4-03",
+    "node": "入口",
+    "minute": 2416,
+    "drift": 1,
+    "alternatives": [
+      "B4-03"
+    ]
+  },
+  {
+    "id": "C4-4",
+    "direct": "B4-04",
+    "node": "入口",
+    "minute": 2432,
+    "drift": 1,
+    "alternatives": [
+      "B4-04"
+    ]
+  },
+  {
+    "id": "M4-4",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 2439,
+    "drift": 3,
+    "alternatives": [
+      "B4-04",
+      "B4-05"
+    ]
+  },
+  {
+    "id": "C4-5",
+    "direct": "B4-05",
+    "node": "入口",
+    "minute": 2432,
+    "drift": 1,
+    "alternatives": [
+      "B4-05"
+    ]
+  },
+  {
+    "id": "C4-6",
+    "direct": "B4-06",
+    "node": "入口",
+    "minute": 2448,
+    "drift": 1,
+    "alternatives": [
+      "B4-06"
+    ]
+  },
+  {
+    "id": "M4-6",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 2455,
+    "drift": 3,
+    "alternatives": [
+      "B4-06",
+      "B4-07"
+    ]
+  },
+  {
+    "id": "C4-7",
+    "direct": "B4-07",
+    "node": "入口",
+    "minute": 2448,
+    "drift": 1,
+    "alternatives": [
+      "B4-07"
+    ]
+  },
+  {
+    "id": "C4-8",
+    "direct": "B4-08",
+    "node": "入口",
+    "minute": 2464,
+    "drift": 1,
+    "alternatives": [
+      "B4-08"
+    ]
+  },
+  {
+    "id": "M4-8",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 2471,
+    "drift": 3,
+    "alternatives": [
+      "B4-08",
+      "B4-09"
+    ]
+  },
+  {
+    "id": "C4-9",
+    "direct": "B4-09",
+    "node": "入口",
+    "minute": 2464,
+    "drift": 1,
+    "alternatives": [
+      "B4-09"
+    ]
+  },
+  {
+    "id": "C4-10",
+    "direct": "B4-10",
+    "node": "入口",
+    "minute": 2480,
+    "drift": 1,
+    "alternatives": [
+      "B4-10"
+    ]
+  },
+  {
+    "id": "M4-10",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 2487,
+    "drift": 3,
+    "alternatives": [
+      "B4-10"
+    ]
+  },
+  {
+    "id": "C5-1",
+    "direct": "B5-01",
+    "node": "入口",
+    "minute": 3000,
+    "drift": 1,
+    "alternatives": [
+      "B5-01"
+    ]
+  },
+  {
+    "id": "C5-2",
+    "direct": "B5-02",
+    "node": "入口",
+    "minute": 3016,
+    "drift": 1,
+    "alternatives": [
+      "B5-02"
+    ]
+  },
+  {
+    "id": "M5-2",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 3023,
+    "drift": 3,
+    "alternatives": [
+      "B5-02",
+      "B5-03"
+    ]
+  },
+  {
+    "id": "C5-3",
+    "direct": "B5-03",
+    "node": "入口",
+    "minute": 3016,
+    "drift": 1,
+    "alternatives": [
+      "B5-03"
+    ]
+  },
+  {
+    "id": "C5-4",
+    "direct": "B5-04",
+    "node": "入口",
+    "minute": 3032,
+    "drift": 1,
+    "alternatives": [
+      "B5-04"
+    ]
+  },
+  {
+    "id": "M5-4",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 3039,
+    "drift": 3,
+    "alternatives": [
+      "B5-04",
+      "B5-05"
+    ]
+  },
+  {
+    "id": "C5-5",
+    "direct": "B5-05",
+    "node": "入口",
+    "minute": 3032,
+    "drift": 1,
+    "alternatives": [
+      "B5-05"
+    ]
+  },
+  {
+    "id": "C5-6",
+    "direct": "B5-06",
+    "node": "入口",
+    "minute": 3048,
+    "drift": 1,
+    "alternatives": [
+      "B5-06"
+    ]
+  },
+  {
+    "id": "M5-6",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 3055,
+    "drift": 3,
+    "alternatives": [
+      "B5-06",
+      "B5-07"
+    ]
+  },
+  {
+    "id": "C5-7",
+    "direct": "B5-07",
+    "node": "入口",
+    "minute": 3048,
+    "drift": 1,
+    "alternatives": [
+      "B5-07"
+    ]
+  },
+  {
+    "id": "C5-8",
+    "direct": "B5-08",
+    "node": "入口",
+    "minute": 3064,
+    "drift": 1,
+    "alternatives": [
+      "B5-08"
+    ]
+  },
+  {
+    "id": "M5-8",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 3071,
+    "drift": 3,
+    "alternatives": [
+      "B5-08",
+      "B5-09"
+    ]
+  },
+  {
+    "id": "C5-9",
+    "direct": "B5-09",
+    "node": "入口",
+    "minute": 3064,
+    "drift": 1,
+    "alternatives": [
+      "B5-09"
+    ]
+  },
+  {
+    "id": "C5-10",
+    "direct": "B5-10",
+    "node": "入口",
+    "minute": 3080,
+    "drift": 1,
+    "alternatives": [
+      "B5-10"
+    ]
+  },
+  {
+    "id": "M5-10",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 3087,
+    "drift": 3,
+    "alternatives": [
+      "B5-10"
+    ]
+  },
+  {
+    "id": "C6-1",
+    "direct": "B6-01",
+    "node": "入口",
+    "minute": 3600,
+    "drift": 1,
+    "alternatives": [
+      "B6-01"
+    ]
+  },
+  {
+    "id": "C6-2",
+    "direct": "B6-02",
+    "node": "入口",
+    "minute": 3616,
+    "drift": 1,
+    "alternatives": [
+      "B6-02"
+    ]
+  },
+  {
+    "id": "M6-2",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 3623,
+    "drift": 3,
+    "alternatives": [
+      "B6-02",
+      "B6-03"
+    ]
+  },
+  {
+    "id": "C6-3",
+    "direct": "B6-03",
+    "node": "入口",
+    "minute": 3616,
+    "drift": 1,
+    "alternatives": [
+      "B6-03"
+    ]
+  },
+  {
+    "id": "C6-4",
+    "direct": "B6-04",
+    "node": "入口",
+    "minute": 3632,
+    "drift": 1,
+    "alternatives": [
+      "B6-04"
+    ]
+  },
+  {
+    "id": "M6-4",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 3639,
+    "drift": 3,
+    "alternatives": [
+      "B6-04",
+      "B6-05"
+    ]
+  },
+  {
+    "id": "C6-5",
+    "direct": "B6-05",
+    "node": "入口",
+    "minute": 3632,
+    "drift": 1,
+    "alternatives": [
+      "B6-05"
+    ]
+  },
+  {
+    "id": "C6-6",
+    "direct": "B6-06",
+    "node": "入口",
+    "minute": 3648,
+    "drift": 1,
+    "alternatives": [
+      "B6-06"
+    ]
+  },
+  {
+    "id": "M6-6",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 3655,
+    "drift": 3,
+    "alternatives": [
+      "B6-06",
+      "B6-07"
+    ]
+  },
+  {
+    "id": "C6-7",
+    "direct": "B6-07",
+    "node": "入口",
+    "minute": 3648,
+    "drift": 1,
+    "alternatives": [
+      "B6-07"
+    ]
+  },
+  {
+    "id": "C6-8",
+    "direct": "B6-08",
+    "node": "入口",
+    "minute": 3664,
+    "drift": 1,
+    "alternatives": [
+      "B6-08"
+    ]
+  },
+  {
+    "id": "M6-8",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 3671,
+    "drift": 3,
+    "alternatives": [
+      "B6-08",
+      "B6-09"
+    ]
+  },
+  {
+    "id": "C6-9",
+    "direct": "B6-09",
+    "node": "入口",
+    "minute": 3664,
+    "drift": 1,
+    "alternatives": [
+      "B6-09"
+    ]
+  },
+  {
+    "id": "C6-10",
+    "direct": "B6-10",
+    "node": "入口",
+    "minute": 3680,
+    "drift": 1,
+    "alternatives": [
+      "B6-10"
+    ]
+  },
+  {
+    "id": "M6-10",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 3687,
+    "drift": 3,
+    "alternatives": [
+      "B6-10"
+    ]
+  },
+  {
+    "id": "C7-1",
+    "direct": "B7-01",
+    "node": "入口",
+    "minute": 4200,
+    "drift": 1,
+    "alternatives": [
+      "B7-01"
+    ]
+  },
+  {
+    "id": "C7-2",
+    "direct": "B7-02",
+    "node": "入口",
+    "minute": 4216,
+    "drift": 1,
+    "alternatives": [
+      "B7-02"
+    ]
+  },
+  {
+    "id": "M7-2",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 4223,
+    "drift": 3,
+    "alternatives": [
+      "B7-02",
+      "B7-03"
+    ]
+  },
+  {
+    "id": "C7-3",
+    "direct": "B7-03",
+    "node": "入口",
+    "minute": 4216,
+    "drift": 1,
+    "alternatives": [
+      "B7-03"
+    ]
+  },
+  {
+    "id": "C7-4",
+    "direct": "B7-04",
+    "node": "入口",
+    "minute": 4232,
+    "drift": 1,
+    "alternatives": [
+      "B7-04"
+    ]
+  },
+  {
+    "id": "M7-4",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 4239,
+    "drift": 3,
+    "alternatives": [
+      "B7-04",
+      "B7-05"
+    ]
+  },
+  {
+    "id": "C7-5",
+    "direct": "B7-05",
+    "node": "入口",
+    "minute": 4232,
+    "drift": 1,
+    "alternatives": [
+      "B7-05"
+    ]
+  },
+  {
+    "id": "C7-6",
+    "direct": "B7-06",
+    "node": "入口",
+    "minute": 4248,
+    "drift": 1,
+    "alternatives": [
+      "B7-06"
+    ]
+  },
+  {
+    "id": "M7-6",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 4255,
+    "drift": 3,
+    "alternatives": [
+      "B7-06",
+      "B7-07"
+    ]
+  },
+  {
+    "id": "C7-7",
+    "direct": "B7-07",
+    "node": "入口",
+    "minute": 4248,
+    "drift": 1,
+    "alternatives": [
+      "B7-07"
+    ]
+  },
+  {
+    "id": "C7-8",
+    "direct": "B7-08",
+    "node": "入口",
+    "minute": 4264,
+    "drift": 1,
+    "alternatives": [
+      "B7-08"
+    ]
+  },
+  {
+    "id": "M7-8",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 4271,
+    "drift": 3,
+    "alternatives": [
+      "B7-08",
+      "B7-09"
+    ]
+  },
+  {
+    "id": "C7-9",
+    "direct": "B7-09",
+    "node": "入口",
+    "minute": 4264,
+    "drift": 1,
+    "alternatives": [
+      "B7-09"
+    ]
+  },
+  {
+    "id": "C7-10",
+    "direct": "B7-10",
+    "node": "入口",
+    "minute": 4280,
+    "drift": 1,
+    "alternatives": [
+      "B7-10"
+    ]
+  },
+  {
+    "id": "M7-10",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 4287,
+    "drift": 3,
+    "alternatives": [
+      "B7-10"
+    ]
+  },
+  {
+    "id": "C8-1",
+    "direct": "B8-01",
+    "node": "入口",
+    "minute": 4800,
+    "drift": 1,
+    "alternatives": [
+      "B8-01"
+    ]
+  },
+  {
+    "id": "C8-2",
+    "direct": "B8-02",
+    "node": "入口",
+    "minute": 4816,
+    "drift": 1,
+    "alternatives": [
+      "B8-02"
+    ]
+  },
+  {
+    "id": "M8-2",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 4823,
+    "drift": 3,
+    "alternatives": [
+      "B8-02",
+      "B8-03"
+    ]
+  },
+  {
+    "id": "C8-3",
+    "direct": "B8-03",
+    "node": "入口",
+    "minute": 4816,
+    "drift": 1,
+    "alternatives": [
+      "B8-03"
+    ]
+  },
+  {
+    "id": "C8-4",
+    "direct": "B8-04",
+    "node": "入口",
+    "minute": 4832,
+    "drift": 1,
+    "alternatives": [
+      "B8-04"
+    ]
+  },
+  {
+    "id": "M8-4",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 4839,
+    "drift": 3,
+    "alternatives": [
+      "B8-04",
+      "B8-05"
+    ]
+  },
+  {
+    "id": "C8-5",
+    "direct": "B8-05",
+    "node": "入口",
+    "minute": 4832,
+    "drift": 1,
+    "alternatives": [
+      "B8-05"
+    ]
+  },
+  {
+    "id": "C8-6",
+    "direct": "B8-06",
+    "node": "入口",
+    "minute": 4848,
+    "drift": 1,
+    "alternatives": [
+      "B8-06"
+    ]
+  },
+  {
+    "id": "M8-6",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 4855,
+    "drift": 3,
+    "alternatives": [
+      "B8-06",
+      "B8-07"
+    ]
+  },
+  {
+    "id": "C8-7",
+    "direct": "B8-07",
+    "node": "入口",
+    "minute": 4848,
+    "drift": 1,
+    "alternatives": [
+      "B8-07"
+    ]
+  },
+  {
+    "id": "C8-8",
+    "direct": "B8-08",
+    "node": "入口",
+    "minute": 4864,
+    "drift": 1,
+    "alternatives": [
+      "B8-08"
+    ]
+  },
+  {
+    "id": "M8-8",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 4871,
+    "drift": 3,
+    "alternatives": [
+      "B8-08",
+      "B8-09"
+    ]
+  },
+  {
+    "id": "C8-9",
+    "direct": "B8-09",
+    "node": "入口",
+    "minute": 4864,
+    "drift": 1,
+    "alternatives": [
+      "B8-09"
+    ]
+  },
+  {
+    "id": "C8-10",
+    "direct": "B8-10",
+    "node": "入口",
+    "minute": 4880,
+    "drift": 1,
+    "alternatives": [
+      "B8-10"
+    ]
+  },
+  {
+    "id": "M8-10",
+    "direct": null,
+    "node": "合流闸",
+    "minute": 4887,
+    "drift": 3,
+    "alternatives": [
+      "B8-10"
+    ]
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "parcel": "B1-01",
+    "shift": "班1",
+    "route": "R1",
+    "destination": "南",
+    "size": "长件",
+    "label": "电子",
+    "minute": 600,
+    "node": "入口"
+  },
+  {
+    "parcel": "B1-02",
+    "shift": "班1",
+    "route": "R1",
+    "destination": "西",
+    "size": "易碎",
+    "label": "电子",
+    "minute": 616,
+    "node": "入口"
+  },
+  {
+    "parcel": "B1-03",
+    "shift": "班1",
+    "route": "R1",
+    "destination": "东",
+    "size": "标准",
+    "label": "电子",
+    "minute": 616,
+    "node": "入口"
+  },
+  {
+    "parcel": "B1-04",
+    "shift": "班1",
+    "route": "R1",
+    "destination": "南",
+    "size": "长件",
+    "label": "纸",
+    "minute": 632,
+    "node": "入口"
+  },
+  {
+    "parcel": "B1-05",
+    "shift": "班1",
+    "route": "R1",
+    "destination": "西",
+    "size": "易碎",
+    "label": "电子",
+    "minute": 632,
+    "node": "入口"
+  },
+  {
+    "parcel": "B1-06",
+    "shift": "班1",
+    "route": "R1",
+    "destination": "东",
+    "size": "标准",
+    "label": "电子",
+    "minute": 648,
+    "node": "入口"
+  },
+  {
+    "parcel": "B1-07",
+    "shift": "班1",
+    "route": "R1",
+    "destination": "南",
+    "size": "长件",
+    "label": "电子",
+    "minute": 648,
+    "node": "入口"
+  },
+  {
+    "parcel": "B1-08",
+    "shift": "班1",
+    "route": "R1",
+    "destination": "西",
+    "size": "易碎",
+    "label": "纸",
+    "minute": 664,
+    "node": "入口"
+  },
+  {
+    "parcel": "B1-09",
+    "shift": "班1",
+    "route": "R1",
+    "destination": "东",
+    "size": "标准",
+    "label": "电子",
+    "minute": 664,
+    "node": "入口"
+  },
+  {
+    "parcel": "B1-10",
+    "shift": "班1",
+    "route": "R1",
+    "destination": "南",
+    "size": "长件",
+    "label": "电子",
+    "minute": 680,
+    "node": "入口"
+  },
+  {
+    "parcel": "B2-01",
+    "shift": "班2",
+    "route": "R0",
+    "destination": "南",
+    "size": "长件",
+    "label": "电子",
+    "minute": 1200,
+    "node": "入口"
+  },
+  {
+    "parcel": "B2-02",
+    "shift": "班2",
+    "route": "R0",
+    "destination": "西",
+    "size": "易碎",
+    "label": "电子",
+    "minute": 1216,
+    "node": "入口"
+  },
+  {
+    "parcel": "B2-03",
+    "shift": "班2",
+    "route": "R0",
+    "destination": "东",
+    "size": "标准",
+    "label": "电子",
+    "minute": 1216,
+    "node": "入口"
+  },
+  {
+    "parcel": "B2-04",
+    "shift": "班2",
+    "route": "R0",
+    "destination": "南",
+    "size": "长件",
+    "label": "纸",
+    "minute": 1232,
+    "node": "入口"
+  },
+  {
+    "parcel": "B2-05",
+    "shift": "班2",
+    "route": "R0",
+    "destination": "西",
+    "size": "易碎",
+    "label": "电子",
+    "minute": 1232,
+    "node": "入口"
+  },
+  {
+    "parcel": "B2-06",
+    "shift": "班2",
+    "route": "R0",
+    "destination": "东",
+    "size": "标准",
+    "label": "电子",
+    "minute": 1248,
+    "node": "入口"
+  },
+  {
+    "parcel": "B2-07",
+    "shift": "班2",
+    "route": "R0",
+    "destination": "南",
+    "size": "长件",
+    "label": "电子",
+    "minute": 1248,
+    "node": "入口"
+  },
+  {
+    "parcel": "B2-08",
+    "shift": "班2",
+    "route": "R0",
+    "destination": "西",
+    "size": "易碎",
+    "label": "纸",
+    "minute": 1264,
+    "node": "入口"
+  },
+  {
+    "parcel": "B2-09",
+    "shift": "班2",
+    "route": "R0",
+    "destination": "东",
+    "size": "标准",
+    "label": "电子",
+    "minute": 1264,
+    "node": "入口"
+  },
+  {
+    "parcel": "B2-10",
+    "shift": "班2",
+    "route": "R0",
+    "destination": "南",
+    "size": "长件",
+    "label": "电子",
+    "minute": 1280,
+    "node": "入口"
+  },
+  {
+    "parcel": "B3-01",
+    "shift": "班3",
+    "route": "R1",
+    "destination": "南",
+    "size": "长件",
+    "label": "电子",
+    "minute": 1800,
+    "node": "入口"
+  },
+  {
+    "parcel": "B3-02",
+    "shift": "班3",
+    "route": "R1",
+    "destination": "西",
+    "size": "易碎",
+    "label": "电子",
+    "minute": 1816,
+    "node": "入口"
+  },
+  {
+    "parcel": "B3-03",
+    "shift": "班3",
+    "route": "R1",
+    "destination": "东",
+    "size": "标准",
+    "label": "电子",
+    "minute": 1816,
+    "node": "入口"
+  },
+  {
+    "parcel": "B3-04",
+    "shift": "班3",
+    "route": "R1",
+    "destination": "南",
+    "size": "长件",
+    "label": "纸",
+    "minute": 1832,
+    "node": "入口"
+  },
+  {
+    "parcel": "B3-05",
+    "shift": "班3",
+    "route": "R1",
+    "destination": "西",
+    "size": "易碎",
+    "label": "电子",
+    "minute": 1832,
+    "node": "入口"
+  },
+  {
+    "parcel": "B3-06",
+    "shift": "班3",
+    "route": "R1",
+    "destination": "东",
+    "size": "标准",
+    "label": "电子",
+    "minute": 1848,
+    "node": "入口"
+  },
+  {
+    "parcel": "B3-07",
+    "shift": "班3",
+    "route": "R1",
+    "destination": "南",
+    "size": "长件",
+    "label": "电子",
+    "minute": 1848,
+    "node": "入口"
+  },
+  {
+    "parcel": "B3-08",
+    "shift": "班3",
+    "route": "R1",
+    "destination": "西",
+    "size": "易碎",
+    "label": "纸",
+    "minute": 1864,
+    "node": "入口"
+  },
+  {
+    "parcel": "B3-09",
+    "shift": "班3",
+    "route": "R1",
+    "destination": "东",
+    "size": "标准",
+    "label": "电子",
+    "minute": 1864,
+    "node": "入口"
+  },
+  {
+    "parcel": "B3-10",
+    "shift": "班3",
+    "route": "R1",
+    "destination": "南",
+    "size": "长件",
+    "label": "电子",
+    "minute": 1880,
+    "node": "入口"
+  },
+  {
+    "parcel": "B4-01",
+    "shift": "班4",
+    "route": "R0",
+    "destination": "南",
+    "size": "长件",
+    "label": "电子",
+    "minute": 2400,
+    "node": "入口"
+  },
+  {
+    "parcel": "B4-02",
+    "shift": "班4",
+    "route": "R0",
+    "destination": "西",
+    "size": "易碎",
+    "label": "电子",
+    "minute": 2416,
+    "node": "入口"
+  },
+  {
+    "parcel": "B4-03",
+    "shift": "班4",
+    "route": "R0",
+    "destination": "东",
+    "size": "标准",
+    "label": "电子",
+    "minute": 2416,
+    "node": "入口"
+  },
+  {
+    "parcel": "B4-04",
+    "shift": "班4",
+    "route": "R0",
+    "destination": "南",
+    "size": "长件",
+    "label": "纸",
+    "minute": 2432,
+    "node": "入口"
+  },
+  {
+    "parcel": "B4-05",
+    "shift": "班4",
+    "route": "R0",
+    "destination": "西",
+    "size": "易碎",
+    "label": "电子",
+    "minute": 2432,
+    "node": "入口"
+  },
+  {
+    "parcel": "B4-06",
+    "shift": "班4",
+    "route": "R0",
+    "destination": "东",
+    "size": "标准",
+    "label": "电子",
+    "minute": 2448,
+    "node": "入口"
+  },
+  {
+    "parcel": "B4-07",
+    "shift": "班4",
+    "route": "R0",
+    "destination": "南",
+    "size": "长件",
+    "label": "电子",
+    "minute": 2448,
+    "node": "入口"
+  },
+  {
+    "parcel": "B4-08",
+    "shift": "班4",
+    "route": "R0",
+    "destination": "西",
+    "size": "易碎",
+    "label": "纸",
+    "minute": 2464,
+    "node": "入口"
+  },
+  {
+    "parcel": "B4-09",
+    "shift": "班4",
+    "route": "R0",
+    "destination": "东",
+    "size": "标准",
+    "label": "电子",
+    "minute": 2464,
+    "node": "入口"
+  },
+  {
+    "parcel": "B4-10",
+    "shift": "班4",
+    "route": "R0",
+    "destination": "南",
+    "size": "长件",
+    "label": "电子",
+    "minute": 2480,
+    "node": "入口"
+  },
+  {
+    "parcel": "B5-01",
+    "shift": "班5",
+    "route": "R1",
+    "destination": "南",
+    "size": "长件",
+    "label": "电子",
+    "minute": 3000,
+    "node": "入口"
+  },
+  {
+    "parcel": "B5-02",
+    "shift": "班5",
+    "route": "R1",
+    "destination": "西",
+    "size": "易碎",
+    "label": "电子",
+    "minute": 3016,
+    "node": "入口"
+  },
+  {
+    "parcel": "B5-03",
+    "shift": "班5",
+    "route": "R1",
+    "destination": "东",
+    "size": "标准",
+    "label": "电子",
+    "minute": 3016,
+    "node": "入口"
+  },
+  {
+    "parcel": "B5-04",
+    "shift": "班5",
+    "route": "R1",
+    "destination": "南",
+    "size": "长件",
+    "label": "纸",
+    "minute": 3032,
+    "node": "入口"
+  },
+  {
+    "parcel": "B5-05",
+    "shift": "班5",
+    "route": "R1",
+    "destination": "西",
+    "size": "易碎",
+    "label": "电子",
+    "minute": 3032,
+    "node": "入口"
+  },
+  {
+    "parcel": "B5-06",
+    "shift": "班5",
+    "route": "R1",
+    "destination": "东",
+    "size": "标准",
+    "label": "电子",
+    "minute": 3048,
+    "node": "入口"
+  },
+  {
+    "parcel": "B5-07",
+    "shift": "班5",
+    "route": "R1",
+    "destination": "南",
+    "size": "长件",
+    "label": "电子",
+    "minute": 3048,
+    "node": "入口"
+  },
+  {
+    "parcel": "B5-08",
+    "shift": "班5",
+    "route": "R1",
+    "destination": "西",
+    "size": "易碎",
+    "label": "纸",
+    "minute": 3064,
+    "node": "入口"
+  },
+  {
+    "parcel": "B5-09",
+    "shift": "班5",
+    "route": "R1",
+    "destination": "东",
+    "size": "标准",
+    "label": "电子",
+    "minute": 3064,
+    "node": "入口"
+  },
+  {
+    "parcel": "B5-10",
+    "shift": "班5",
+    "route": "R1",
+    "destination": "南",
+    "size": "长件",
+    "label": "电子",
+    "minute": 3080,
+    "node": "入口"
+  },
+  {
+    "parcel": "B6-01",
+    "shift": "班6",
+    "route": "R0",
+    "destination": "南",
+    "size": "长件",
+    "label": "电子",
+    "minute": 3600,
+    "node": "入口"
+  },
+  {
+    "parcel": "B6-02",
+    "shift": "班6",
+    "route": "R0",
+    "destination": "西",
+    "size": "易碎",
+    "label": "电子",
+    "minute": 3616,
+    "node": "入口"
+  },
+  {
+    "parcel": "B6-03",
+    "shift": "班6",
+    "route": "R0",
+    "destination": "东",
+    "size": "标准",
+    "label": "电子",
+    "minute": 3616,
+    "node": "入口"
+  },
+  {
+    "parcel": "B6-04",
+    "shift": "班6",
+    "route": "R0",
+    "destination": "南",
+    "size": "长件",
+    "label": "纸",
+    "minute": 3632,
+    "node": "入口"
+  },
+  {
+    "parcel": "B6-05",
+    "shift": "班6",
+    "route": "R0",
+    "destination": "西",
+    "size": "易碎",
+    "label": "电子",
+    "minute": 3632,
+    "node": "入口"
+  },
+  {
+    "parcel": "B6-06",
+    "shift": "班6",
+    "route": "R0",
+    "destination": "东",
+    "size": "标准",
+    "label": "电子",
+    "minute": 3648,
+    "node": "入口"
+  },
+  {
+    "parcel": "B6-07",
+    "shift": "班6",
+    "route": "R0",
+    "destination": "南",
+    "size": "长件",
+    "label": "电子",
+    "minute": 3648,
+    "node": "入口"
+  },
+  {
+    "parcel": "B6-08",
+    "shift": "班6",
+    "route": "R0",
+    "destination": "西",
+    "size": "易碎",
+    "label": "纸",
+    "minute": 3664,
+    "node": "入口"
+  },
+  {
+    "parcel": "B6-09",
+    "shift": "班6",
+    "route": "R0",
+    "destination": "东",
+    "size": "标准",
+    "label": "电子",
+    "minute": 3664,
+    "node": "入口"
+  },
+  {
+    "parcel": "B6-10",
+    "shift": "班6",
+    "route": "R0",
+    "destination": "南",
+    "size": "长件",
+    "label": "电子",
+    "minute": 3680,
+    "node": "入口"
+  },
+  {
+    "parcel": "B7-01",
+    "shift": "班7",
+    "route": "R1",
+    "destination": "南",
+    "size": "长件",
+    "label": "电子",
+    "minute": 4200,
+    "node": "入口"
+  },
+  {
+    "parcel": "B7-02",
+    "shift": "班7",
+    "route": "R1",
+    "destination": "西",
+    "size": "易碎",
+    "label": "电子",
+    "minute": 4216,
+    "node": "入口"
+  },
+  {
+    "parcel": "B7-03",
+    "shift": "班7",
+    "route": "R1",
+    "destination": "东",
+    "size": "标准",
+    "label": "电子",
+    "minute": 4216,
+    "node": "入口"
+  },
+  {
+    "parcel": "B7-04",
+    "shift": "班7",
+    "route": "R1",
+    "destination": "南",
+    "size": "长件",
+    "label": "纸",
+    "minute": 4232,
+    "node": "入口"
+  },
+  {
+    "parcel": "B7-05",
+    "shift": "班7",
+    "route": "R1",
+    "destination": "西",
+    "size": "易碎",
+    "label": "电子",
+    "minute": 4232,
+    "node": "入口"
+  },
+  {
+    "parcel": "B7-06",
+    "shift": "班7",
+    "route": "R1",
+    "destination": "东",
+    "size": "标准",
+    "label": "电子",
+    "minute": 4248,
+    "node": "入口"
+  },
+  {
+    "parcel": "B7-07",
+    "shift": "班7",
+    "route": "R1",
+    "destination": "南",
+    "size": "长件",
+    "label": "电子",
+    "minute": 4248,
+    "node": "入口"
+  },
+  {
+    "parcel": "B7-08",
+    "shift": "班7",
+    "route": "R1",
+    "destination": "西",
+    "size": "易碎",
+    "label": "纸",
+    "minute": 4264,
+    "node": "入口"
+  },
+  {
+    "parcel": "B7-09",
+    "shift": "班7",
+    "route": "R1",
+    "destination": "东",
+    "size": "标准",
+    "label": "电子",
+    "minute": 4264,
+    "node": "入口"
+  },
+  {
+    "parcel": "B7-10",
+    "shift": "班7",
+    "route": "R1",
+    "destination": "南",
+    "size": "长件",
+    "label": "电子",
+    "minute": 4280,
+    "node": "入口"
+  },
+  {
+    "parcel": "B8-01",
+    "shift": "班8",
+    "route": "R0",
+    "destination": "南",
+    "size": "长件",
+    "label": "电子",
+    "minute": 4800,
+    "node": "入口"
+  },
+  {
+    "parcel": "B8-02",
+    "shift": "班8",
+    "route": "R0",
+    "destination": "西",
+    "size": "易碎",
+    "label": "电子",
+    "minute": 4816,
+    "node": "入口"
+  },
+  {
+    "parcel": "B8-03",
+    "shift": "班8",
+    "route": "R0",
+    "destination": "东",
+    "size": "标准",
+    "label": "电子",
+    "minute": 4816,
+    "node": "入口"
+  },
+  {
+    "parcel": "B8-04",
+    "shift": "班8",
+    "route": "R0",
+    "destination": "南",
+    "size": "长件",
+    "label": "纸",
+    "minute": 4832,
+    "node": "入口"
+  },
+  {
+    "parcel": "B8-05",
+    "shift": "班8",
+    "route": "R0",
+    "destination": "西",
+    "size": "易碎",
+    "label": "电子",
+    "minute": 4832,
+    "node": "入口"
+  },
+  {
+    "parcel": "B8-06",
+    "shift": "班8",
+    "route": "R0",
+    "destination": "东",
+    "size": "标准",
+    "label": "电子",
+    "minute": 4848,
+    "node": "入口"
+  },
+  {
+    "parcel": "B8-07",
+    "shift": "班8",
+    "route": "R0",
+    "destination": "南",
+    "size": "长件",
+    "label": "电子",
+    "minute": 4848,
+    "node": "入口"
+  },
+  {
+    "parcel": "B8-08",
+    "shift": "班8",
+    "route": "R0",
+    "destination": "西",
+    "size": "易碎",
+    "label": "纸",
+    "minute": 4864,
+    "node": "入口"
+  },
+  {
+    "parcel": "B8-09",
+    "shift": "班8",
+    "route": "R0",
+    "destination": "东",
+    "size": "标准",
+    "label": "电子",
+    "minute": 4864,
+    "node": "入口"
+  },
+  {
+    "parcel": "B8-10",
+    "shift": "班8",
+    "route": "R0",
+    "destination": "南",
+    "size": "长件",
+    "label": "电子",
+    "minute": 4880,
+    "node": "入口"
+  }
+]

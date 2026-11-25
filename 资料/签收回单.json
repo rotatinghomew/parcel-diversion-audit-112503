@@ -1,0 +1,394 @@
+[
+  {
+    "proof": "Q1-1",
+    "parcel": "B1-01",
+    "zone": "南",
+    "minute": 640,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q1-2",
+    "parcel": "B1-02",
+    "zone": "西",
+    "minute": 656,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q1-3",
+    "parcel": "B1-03",
+    "zone": "东",
+    "minute": 656,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q1-4",
+    "parcel": "B1-04",
+    "zone": "南",
+    "minute": 672,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q1-6",
+    "parcel": "B1-06",
+    "zone": "东",
+    "minute": 688,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q1-8",
+    "parcel": "B1-08",
+    "zone": "西",
+    "minute": 704,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q1-9",
+    "parcel": "B1-09",
+    "zone": "东",
+    "minute": 704,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q2-1",
+    "parcel": "B2-01",
+    "zone": "南",
+    "minute": 1240,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q2-2",
+    "parcel": "B2-02",
+    "zone": "西",
+    "minute": 1256,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q2-3",
+    "parcel": "B2-03",
+    "zone": "东",
+    "minute": 1256,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q2-4",
+    "parcel": "B2-04",
+    "zone": "南",
+    "minute": 1272,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q2-6",
+    "parcel": "B2-06",
+    "zone": "东",
+    "minute": 1288,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q2-8",
+    "parcel": "B2-08",
+    "zone": "西",
+    "minute": 1304,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q2-9",
+    "parcel": "B2-09",
+    "zone": "东",
+    "minute": 1304,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q3-1",
+    "parcel": "B3-01",
+    "zone": "南",
+    "minute": 1840,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q3-2",
+    "parcel": "B3-02",
+    "zone": "西",
+    "minute": 1856,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q3-3",
+    "parcel": "B3-03",
+    "zone": "东",
+    "minute": 1856,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q3-4",
+    "parcel": "B3-04",
+    "zone": "南",
+    "minute": 1872,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q3-6",
+    "parcel": "B3-06",
+    "zone": "东",
+    "minute": 1888,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q3-8",
+    "parcel": "B3-08",
+    "zone": "西",
+    "minute": 1904,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q3-9",
+    "parcel": "B3-09",
+    "zone": "东",
+    "minute": 1904,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q4-1",
+    "parcel": "B4-01",
+    "zone": "南",
+    "minute": 2440,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q4-2",
+    "parcel": "B4-02",
+    "zone": "西",
+    "minute": 2456,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q4-3",
+    "parcel": "B4-03",
+    "zone": "东",
+    "minute": 2456,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q4-4",
+    "parcel": "B4-04",
+    "zone": "南",
+    "minute": 2472,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q4-6",
+    "parcel": "B4-06",
+    "zone": "东",
+    "minute": 2488,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q4-8",
+    "parcel": "B4-08",
+    "zone": "西",
+    "minute": 2504,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q4-9",
+    "parcel": "B4-09",
+    "zone": "东",
+    "minute": 2504,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q5-1",
+    "parcel": "B5-01",
+    "zone": "南",
+    "minute": 3040,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q5-2",
+    "parcel": "B5-02",
+    "zone": "西",
+    "minute": 3056,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q5-3",
+    "parcel": "B5-03",
+    "zone": "东",
+    "minute": 3056,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q5-4",
+    "parcel": "B5-04",
+    "zone": "南",
+    "minute": 3072,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q5-6",
+    "parcel": "B5-06",
+    "zone": "东",
+    "minute": 3088,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q5-8",
+    "parcel": "B5-08",
+    "zone": "西",
+    "minute": 3104,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q5-9",
+    "parcel": "B5-09",
+    "zone": "东",
+    "minute": 3104,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q6-1",
+    "parcel": "B6-01",
+    "zone": "南",
+    "minute": 3640,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q6-2",
+    "parcel": "B6-02",
+    "zone": "西",
+    "minute": 3656,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q6-3",
+    "parcel": "B6-03",
+    "zone": "东",
+    "minute": 3656,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q6-4",
+    "parcel": "B6-04",
+    "zone": "南",
+    "minute": 3672,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q6-6",
+    "parcel": "B6-06",
+    "zone": "东",
+    "minute": 3688,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q6-8",
+    "parcel": "B6-08",
+    "zone": "西",
+    "minute": 3704,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q6-9",
+    "parcel": "B6-09",
+    "zone": "东",
+    "minute": 3704,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q7-1",
+    "parcel": "B7-01",
+    "zone": "南",
+    "minute": 4240,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q7-2",
+    "parcel": "B7-02",
+    "zone": "西",
+    "minute": 4256,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q7-3",
+    "parcel": "B7-03",
+    "zone": "东",
+    "minute": 4256,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q7-4",
+    "parcel": "B7-04",
+    "zone": "南",
+    "minute": 4272,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q7-6",
+    "parcel": "B7-06",
+    "zone": "东",
+    "minute": 4288,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q7-8",
+    "parcel": "B7-08",
+    "zone": "西",
+    "minute": 4304,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q7-9",
+    "parcel": "B7-09",
+    "zone": "东",
+    "minute": 4304,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q8-1",
+    "parcel": "B8-01",
+    "zone": "南",
+    "minute": 4840,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q8-2",
+    "parcel": "B8-02",
+    "zone": "西",
+    "minute": 4856,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q8-3",
+    "parcel": "B8-03",
+    "zone": "东",
+    "minute": 4856,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q8-4",
+    "parcel": "B8-04",
+    "zone": "南",
+    "minute": 4872,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q8-6",
+    "parcel": "B8-06",
+    "zone": "东",
+    "minute": 4888,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q8-8",
+    "parcel": "B8-08",
+    "zone": "西",
+    "minute": 4904,
+    "kind": "签收"
+  },
+  {
+    "proof": "Q8-9",
+    "parcel": "B8-09",
+    "zone": "东",
+    "minute": 4904,
+    "kind": "签收"
+  }
+]
